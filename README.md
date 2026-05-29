@@ -1,6 +1,6 @@
 # EuroSAT Multispectral Land-Use Classification
 
-A custom 4-layer convolutional neural network for classifying Sentinel-2 satellite imagery across 10 land-use categories. EuroSAT Data was taken from Kaggle.
+A custom 4-layer convolutional neural network for classifying Sentinel-2 satellite imagery across 10 land-use categories. EuroSAT Data was taken from [Kaggle](https://www.kaggle.com/datasets/apollo2506/eurosat-dataset/data).
 ## Test results
 
 | Metric          | Value                          |
